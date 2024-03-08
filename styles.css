@@ -1,14 +1,14 @@
 /* Style the body and center the form */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #ffde21;
     text-align: center;
     padding: 20px;
 }
 
 /* Style the form container */
 form {
-    background-color: #fff;
+    background-color: #7cc6dd;
     border: 1px solid #ccc;
     padding: 20px;
     max-width: 600px;
@@ -27,16 +27,16 @@ label {
 textarea,
 select,
 input[type="number"] {
-    width: 100%;
+    width: 90%;
     padding: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     border: 1px solid #ccc;
     border-radius: 3px;
 }
 
 /* Style the submit button */
 input[type="submit"] {
-    background-color: #007bff;
+    background-color: #ff5100;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -46,5 +46,5 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #0056b3;
+    background-color: #51d844;
 }
